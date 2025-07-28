@@ -6,5 +6,9 @@ for letra in texto:
     bin_8bits = format(ascii_num, '08b')
     binarios.append(bin_8bits)
 
-binario_final = " ".join(binarios)
+binario_final = ""
+for b in binarios:
+    binario_final += b + " "
+binario_final = binario_final.strip()
+
 print(binario_final)
