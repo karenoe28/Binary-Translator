@@ -7,8 +7,8 @@ for letra in texto:
     binarios.append(bin_8bits)
 
 binario_final = ""
-for b in binarios:
-    binario_final += b + " "
+for x in binarios:
+    binario_final += x + " "
 binario_final = binario_final.strip()
 
 print(binario_final)
