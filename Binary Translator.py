@@ -1,0 +1,10 @@
+texto = input("Ingresa tu texto: ")
+binarios = []
+
+for letra in texto:
+    ascii_num = ord(letra)
+    bin_8bits = format(ascii_num, '08b')
+    binarios.append(bin_8bits)
+
+binario_final = " ".join(binarios)
+print(binario_final)
