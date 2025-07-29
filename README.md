@@ -1,3 +1,3 @@
 # Binary-Translator
 
-Como es que no recordaba que tenía que convertirlo a ASCII antes de convertirlo a binario?
+El código binario nunca fue una etapa, fin.
