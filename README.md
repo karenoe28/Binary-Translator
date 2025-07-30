@@ -1,3 +1,3 @@
 # Binary-Translator
 
-Programación 1 nunca fue una etapa, fin.
+Programación 1 nunca fue una etapa, fin
